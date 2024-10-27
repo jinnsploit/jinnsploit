@@ -1,8 +1,15 @@
-# Welcome to My GitHub Profile! 👋
+
+     ██╗██╗███╗   ██╗███╗   ██╗███████╗██████╗ ██╗      ██████╗ ██╗████████╗
+     ██║██║████╗  ██║████╗  ██║██╔════╝██╔══██╗██║     ██╔═══██╗██║╚══██╔══╝
+     ██║██║██╔██╗ ██║██╔██╗ ██║███████╗██████╔╝██║     ██║   ██║██║   ██║   
+██   ██║██║██║╚██╗██║██║╚██╗██║╚════██║██╔═══╝ ██║     ██║   ██║██║   ██║   
+╚█████╔╝██║██║ ╚████║██║ ╚████║███████║██║     ███████╗╚██████╔╝██║   ██║   
+ ╚════╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝   ╚═╝   
+                                                                            
 
 ## About Me
 
-I'm a Cyber Security Engineer with a passion for **Machine Learning** and **Artificial Intelligence**. I specialize in integrating these technologies into cybersecurity practices to enhance threat detection and response. I’m also an ethical hacking enthusiast, constantly exploring new ways to improve security through innovative techniques.
+I'm a Cyber Security Engineer with a passion for **Machine Learning** and **Artificial Intelligence**. I specialize in integrating these technologies into cybersecurity tools to enhance threat detection and attack prowess. I’m constantly exploring new ways to improve security through innovative techniques.
 
 ## Skills
 
